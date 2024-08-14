@@ -1,0 +1,126 @@
+{
+  "project_info": {
+    "project_number": "93868432068",
+    "project_id": "soundofmeme-4ca57",
+    "storage_bucket": "soundofmeme-4ca57.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:93868432068:android:6dfe7b4ec8cd4d72638791",
+        "android_client_info": {
+          "package_name": "com.example.soundofmem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "93868432068-sgemj86h24eujr1uegtcoautita3s1cu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCeKvvx4yU4Mhf6Lq7qf8rPcZihf_xNUkI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "93868432068-sgemj86h24eujr1uegtcoautita3s1cu.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "93868432068-8egaknn4b2ufev2g5101lgh3n1t0t5no.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.soundofmeme"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:93868432068:android:45b2f39aae5ee982638791",
+        "android_client_info": {
+          "package_name": "com.example.soundofmemenew"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "93868432068-fjq8oe3usjj29ngjdjr438htvcn0vaan.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.soundofmemenew",
+            "certificate_hash": "1271cb126ef0006a7c391c40022bb76ddbabc925"
+          }
+        },
+        {
+          "client_id": "93868432068-sgemj86h24eujr1uegtcoautita3s1cu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCeKvvx4yU4Mhf6Lq7qf8rPcZihf_xNUkI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "93868432068-sgemj86h24eujr1uegtcoautita3s1cu.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "93868432068-8egaknn4b2ufev2g5101lgh3n1t0t5no.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.soundofmeme"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:93868432068:android:f83e1496b258b15e638791",
+        "android_client_info": {
+          "package_name": "com.examples.soundofmeme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "93868432068-sgemj86h24eujr1uegtcoautita3s1cu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCeKvvx4yU4Mhf6Lq7qf8rPcZihf_xNUkI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "93868432068-sgemj86h24eujr1uegtcoautita3s1cu.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "93868432068-8egaknn4b2ufev2g5101lgh3n1t0t5no.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.soundofmeme"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
